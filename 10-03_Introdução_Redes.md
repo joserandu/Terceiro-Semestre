@@ -48,7 +48,51 @@
   - No linux não funciona, é o comando <b>ifconfig -a</b> (Não funcionou)
 
 -  MAC significa "Media Access Control"
-    
+
+## Segunda parte da aula
+
+- Não pode ter dois endereços MAC na mesma rede.
+  - É a identificação do fabricante.
+
+## Camadas
+
+- As camadas em redes são estruturas que organizam a troca de dados entre dispositivos, garantindo a segurança, eficiência e confiabilidade da comunicação.
+  - Camada 1: placa de rede
+  - Camada 2: quadro
+  - Camada 3: IP
+ 
+  - As camadas do TCP/IP são: De aplicação, De transporte, De rede, De interface (ou enlace de dados).
+
+## Servidor
+
+- Ele é o que serve o cliente.
+  - A vantegem dele é de que a gente pode só configurar o servidor e não configurar máquina por máquina.
+
+- Os grandes servidores precisam estar perto de centros de energia.
+
+- Temos servidores só para backup.
+  - Que é um servidor dedicado.
+- Servidor de redes.
+- Servidor de arquivos.
+- Servidor de banco de dados.
+- Servidor de impressão.
+  - Faz o controle da fila de impressão.
+- Servidor de aplicativos.
+- Servidor de nuvem
+- Servidor de e-mail.
+  - Não necessariamente é de arquivos.
+  - File: Impede certos serviços específicos, podendo bloquear serviços do servidor, como o email, bloqueando a porta.
+  - Cada serviço possui uma porta correspondente, com números próprios. Email: Porta 25.
+
+- A configuração do software é feita por software, que é o Sistema Operacional.
+  - O mais utilizado é o windons, mas para grandes servidores, a gente usa mais o linux.
+  - Podemos formar grupos para gerenciamento dos servidores.
+  - O windons é mais simples porque a interface gráfica é mais simples do que o linux, que utiliza linhas de comando.
+
+- Por isso é melhor usar a estrutura de cliente servidor, porque fica mais fácil de controlar os acessos.
+
+- 
+
 ![Image](https://github.com/user-attachments/assets/7f811afc-630b-44de-86d2-b073bfc40969)
 ![Image](https://github.com/user-attachments/assets/2eb447ae-f09d-44e4-8f06-7d48fe844909)
 ![Image](https://github.com/user-attachments/assets/4758d45f-e1d9-4c98-a67d-caa21beca8cb)
