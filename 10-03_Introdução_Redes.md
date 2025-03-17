@@ -28,6 +28,27 @@
   - É um dispositivo "burro"
 - Serve mais para sistemas grandes, pois o switch é caro.
 
+- Repetidor tem poucas portas.
+  - Serve para repetir a rede, e ele é mais barato.
+  - O Hub só duplica sinal, ele é um dispositivo burro.
+  - ![Image](https://github.com/user-attachments/assets/2a5fb400-bda3-4818-a0d7-649306dbb928)
+  - O Switch também é um repetidor que tem mais portas, ou seja, ele é mais caro.
+    - Ele consegue encaminhar melhor os dados.
+
+  - Bridge
+    - Faz a ponte entre os dados, e evita as colisões de dados que podem acontecer com o switch
+    - É mais caro.
+
+  - Roteador é o melhor repetidor que existe
+    - Os dados não são perdidos.
+    - Ele conecta redes diferentes.
+   
+- O Protocolo de Configuração Dinâmica de Host (<b>DHCP</b>) atribui endereços IP a dispositivos que se conectam a uma rede.
+  - Para ver o ip a gente usa o comando <b>ip config/all</b>
+  - No linux não funciona, é o comando <b>ifconfig -a</b> (Não funcionou)
+
+-  MAC significa "Media Access Control"
+    
 ![Image](https://github.com/user-attachments/assets/7f811afc-630b-44de-86d2-b073bfc40969)
 ![Image](https://github.com/user-attachments/assets/2eb447ae-f09d-44e4-8f06-7d48fe844909)
 ![Image](https://github.com/user-attachments/assets/4758d45f-e1d9-4c98-a67d-caa21beca8cb)
