@@ -91,7 +91,7 @@
 
 - Por isso é melhor usar a estrutura de cliente servidor, porque fica mais fácil de controlar os acessos.
 
-- 
+- Com um switch a gente consegue espandir uma rede.
 
 ![Image](https://github.com/user-attachments/assets/7f811afc-630b-44de-86d2-b073bfc40969)
 ![Image](https://github.com/user-attachments/assets/2eb447ae-f09d-44e4-8f06-7d48fe844909)
