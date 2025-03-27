@@ -19,3 +19,21 @@
 ![Image](https://github.com/user-attachments/assets/4af6b937-090d-4702-a434-339ba1a17f8b)
 
 - Baixar brModelo.
+
+# Correção | 27/03/2025
+
+## Exercício 2
+
+![Image](https://github.com/user-attachments/assets/bc6b7d09-d78e-4ec6-8264-3e35fc5a9535)
+
+- Está tudo certo, só está errado em não considerar Compra como entidade.
+
+# Exercício 3
+
+![Image](https://github.com/user-attachments/assets/07725fa1-cf8d-452b-a1e1-9cf11523a1ba)
+
+- O Passageiro não escolhe apenas o acento, mas também o voo.
+  - Esses dois precisam estar ligados também.
+ 
+- Números calculáveis não precisão ser gravadas no banco de dados, por exemplo uma média.
+  - Quando a gente quer o resultado a gente calcula.
