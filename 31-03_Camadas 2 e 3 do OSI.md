@@ -34,3 +34,25 @@
 - O endereço de IP é a identificação da sua máquina na rede: 192.168.0.1.
 - Não pode ter dois IPs nem dois MACs iguais na mesma rede.
 - Os dois não vão funcionar.
+
+<hr>
+
+1 - O que é um pacote?
+  - Um conjunto de bits e frames.
+  - um conjunto de roteadores.
+  - Um conjunto de Switchs e Hubs.
+  - Um conjunto de dados.
+  - Um conjunto de computadores.
+  
+2 - Qual é o número da porta do protocolo https?
+  - 80
+  - 50
+  - 21
+  - 30
+  - 400
+
+3 - Qual é o nome da camada 2 do modelo OSI?
+
+4 - Cite um protocolo de redes que não seja o OSI?
+
+5 - O que quer dizer MAC?
