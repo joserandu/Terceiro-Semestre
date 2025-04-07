@@ -2,6 +2,7 @@
 
 ## Camada 4 - Transporte
 
+- Conexão fim a fim;
 - Protocolos:
   - TCP:
     - Mais confiável;
@@ -55,3 +56,38 @@
 
 ### Observações
 - A cisco tem os seus próprios protocolos porque servem para os seus dispositivos.
+
+## Trabalho 
+
+- Mínimo de 7 referências.
+- 50% por cento da nota.
+- Terá a parte prática.
+
+# Modelo TCP/IP
+
+- Baixo indice de falha;
+- Escalonado;
+- Modelo de fácil configuração;
+- 4 Camadas: Acesso a Rede/Interface (fisica e enlace), Internet/Redes (rede - roteamento), Transporte (transporte) e Aplicação (seção, apresentação e aplicação).
+  - Ou seja, o OSI compactou e virou o TCP/IP.
+ 
+## Acesso a Rede
+
+- Cabeamento e MAC address;
+- Controle de fluxo e confiabilidade de conexão;
+- Essa camada liga o meio físico com o meio lógico;
+
+## Internet
+
+- A gente diferencia as redes pelo número do IP.
+
+- IP - internet estável.
+- ARP - endereço de hardware.
+- ICMP - Comunicação de informações vitais do hardware.
+
+<hr>
+
+- O TCP é orientado a conexão;
+- O UDP não tem entrega garantida, mas é um protocolo leve.
+  - Alguns pacotes normalmente são perdidos.
+  - Ele é leve porque o cabeçalho dele não é tão grande, por isso ele não vai garantir que os pacotes cheguem.
