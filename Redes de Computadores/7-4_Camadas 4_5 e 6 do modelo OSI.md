@@ -39,7 +39,19 @@
     - Todos os protocolos usam portas para que o firewall possa bloquear.
     - 161;
   - FTP e TFTP (transferencia de arquivos);
-    - 20/21;
-    - 69;
+    - 20/21 (+ seguro, porque utiliza o TCP);
+    - 69 (+ rápido, );
 
-- Um dos principais padrões dentro dessa camada é o IEEE
+### Padrões
+
+- IEEE;
+  - Um dos principais padrões dentro dessa camada é o IEEE;
+- Ethernet;
+  - É mais usado para o cabeamento;
+- DNS;
+  - 53;
+- DHCP
+  - 67;
+
+### Observações
+- A cisco tem os seus próprios protocolos porque servem para os seus dispositivos.
