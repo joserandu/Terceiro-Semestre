@@ -2,7 +2,7 @@
 
 ## Avaliações
 
-- Duas provas (7)
+- Duas provas 15/05/2025 (7)
 - Listas de exercícios semanais (2)
   - 10 a 12 listas no semestre;
 - Trabalho/projeto (3)
